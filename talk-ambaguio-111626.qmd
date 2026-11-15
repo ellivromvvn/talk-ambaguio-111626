@@ -86,7 +86,7 @@ Reference management tools helps you:
 
 > [Building ideas, one citation at a time.](https://endnote.com)
 
-- **Cost:** A free, limited, web-based version is available. Academic pricing on a full license is available through OneHub.
+- **Cost:** A free, limited, web-based version is available.
 - **Word Processor Plugins:** Microsoft Word
 - **Browser Extensions:** Chrome, Firefox, and Safari
 - **Online Storage:** 2 GB with a free account, unlimited with a desktop account
