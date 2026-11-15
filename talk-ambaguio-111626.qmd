@@ -10,8 +10,8 @@ author:
   - name: Orville D. Hombrebueno
     email: odhombrebueno@nvsu.edu.ph
     affiliations:
-      - Secondary Education Department
-      - COLLEGE OF TEACHER EDUCATION
+      - Secondary Education Department | College of Teacher Education
+      - NUEVA VIZCAYA STATE UNIVERSITY
 date: November 14, 2026
 bibliography: refs.bib
 csl: apa.csl
@@ -25,28 +25,30 @@ title-slide-attributes:
 
 My name is Orville D. Hombrebueno. I am a Math teacher at the College of Teacher Education, Nueva Vizcaya State University. I am the lead organizer of the R user group of NVSU.
 
-::::: {.columns}
+::::: columns
 ::: {.column width="32%"}
-
 ![](img/odh2.png){height="400px" fig-align="left"}
-
 :::
 
 ::: {.column width="68%"}
-
 - {{< fa brands github size=1.4xl >}} [ellivromvvn](https://github.com/ellivromvvn)
 - {{< fa brands mastodon size=1.4xl >}} [mildorville](https://fosstodon.org/@mildorville)
 - {{< fa brands bluesky size=1.4xl >}} [odhombrebueno.bsky.social](https://bsky.app/profile/odhombrebueno.bsky.social)
 - {{< fa brands square-x-twitter size=1.4xl >}} [odhombrebueno](https://x.com/odhombrebueno)
 - {{< fa brands facebook size=1.4xl >}} [Orville Dulay Hombrebueno](https://www.facebook.com/orville.hombrebueno)
-
 :::
 :::::
+
+## Want a copy of the slide deck?
+
+::: {style="text-align: center;"}
+![https://ellivromvvn.github.io/talk-ambaguio-111626/](img/qr.png){height="500px" fig-align="center"}
+:::
 
 ## This talk is about...
 
 - Reference management tools
-- Editing tools
+- Research editing tools
 - Live demo
 
 ## What is a reference management tool?
@@ -55,7 +57,7 @@ A reference management tool (also called a citation manager or bibliographic sof
 
 ## Why use reference management tools?
 
-Reference management tools help you collect, manage, cite, and share bibliographic references. These tools can be used to automatically generate both in-text citations and bibliographies, organize PDFs, and share references between team members [@woodward2026].
+Reference management tools help you collect, manage, cite, and share bibliographic references. These tools can be used to automatically generate both in-text citations and bibliographies, organize PDFs, and share references between team members [@woodward].
 
 Reference management tools helps you:
 
@@ -108,6 +110,39 @@ Reference management tools helps you:
 
 ## What is a research editing tool?
 
-A research editing tool is software designed to help students, academics, and writers improve the clarity, accuracy, and formatting of their scholarly work. These tools use artificial intelligence and rule-based checks to catch grammar errors, fix citation styles, and refine academic tone before a paper is submitted or published.
+A research editing tool is software designed to help students, academics, and writers improve the clarity, accuracy, and formatting of their scholarly work. These tools use [**artificial intelligence**]{style="color: #107895;"} and rule-based checks to catch grammar errors, fix citation styles, and refine academic tone before a paper is submitted or published.
+
+## Committee on Publication Ethics (COPE)
+
+> Authors who use AI tools in the writing of a manuscript, production of images or graphical elements of the paper, or in the collection and analysis of data, must be transparent in disclosing in the Materials and Methods (or similar section) of the paper how the AI tool was used and which tool was used. Authors are fully responsible for the content of their manuscript, even those parts produced by an AI tool, and are thus liable for any breach of publication ethics [@authorsh2023].
+
+## Research editing tools
+
+::: panel-tabset
+## Writing Polishers & Paraphrasers
+
+- [Grammarly](https://app.grammarly.com/): Best for real-time grammar, spelling, punctuation, clarity, and tone checks across apps and browsers. It also offers generative rewrites, plagiarism checks, and AI detection tools like the Grammarly AI Detector.
+- [Quillbot](https://quillbot.com): Best for paraphrasing, summarizing, and rewording sentences in different styles—popular with students and writers. It also includes grammar checking and tools such as the QuillBot AI Detector.
+
+## General AI Assistants
+
+- [Claude](https://claude.ai/): Strong at natural, human-sounding writing, nuanced tone, long document analysis, and coding.
+
+- [ChatGPT](https://chatgpt.com/) Versatile all-rounder for drafting, brainstorming, step-by-step explanations, coding, and multimodal tasks.
+
+- [Gemini](https://gemini.google.com/): Tightly integrated with Google Workspace (Docs, Gmail, Drive, Sheets) and strong at live web search, research, and handling large workspaces or media.
+:::
+
+# Live demo
+
+## Zotero tutorials and help
+
+- [ZoteroBib](https://zbib.org)
+- [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide)
+- [Zotero Documentation](https://www.zotero.org/support/)
+- [Zotero Screencasts](https://www.zotero.org/support/screencast_tutorials)
+- [Zotero Forums](https://forums.zotero.org)
+
+# Thank you for listening!
 
 ## References
