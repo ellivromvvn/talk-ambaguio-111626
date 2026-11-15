@@ -51,13 +51,15 @@ My name is Orville D. Hombrebueno. I am a Math teacher at the College of Teacher
 - Research editing tools
 - Live demo
 
+# Reference management tool
+
 ## What is a reference management tool?
 
-A reference management tool (also called a citation manager or bibliographic software) is a computer application or software that helps students, researchers, and academics collect, store, organize, and format citations and reference lists [@referenc2026].
+A reference management tool (also called a citation manager or bibliographic software) is a computer application or software that helps students, researchers, and academics **collect**, **store**, **organize**, and **format** citations and reference lists [@referenc2026].
 
 ## Why use reference management tools?
 
-Reference management tools help you collect, manage, cite, and share bibliographic references. These tools can be used to automatically generate both in-text citations and bibliographies, organize PDFs, and share references between team members [@woodward].
+Reference management tools help you collect, manage, cite, and **share** bibliographic references. These tools can be used to automatically generate both in-text citations and bibliographies, organize PDFs, and share references between team members [@woodward].
 
 Reference management tools helps you:
 
@@ -108,6 +110,8 @@ Reference management tools helps you:
 - **Local Storage:** Unlimited (limited only by your computer's hard drive)
 :::
 
+# Research editing tool
+
 ## What is a research editing tool?
 
 A research editing tool is software designed to help students, academics, and writers improve the clarity, accuracy, and formatting of their scholarly work. These tools use [**artificial intelligence**]{style="color: #107895;"} and rule-based checks to catch grammar errors, fix citation styles, and refine academic tone before a paper is submitted or published.
@@ -135,7 +139,7 @@ A research editing tool is software designed to help students, academics, and wr
 
 # Live demo
 
-## Zotero tutorials and help
+## ![](img/zotero.png){height="40px"} Zotero tutorials and help
 
 - [ZoteroBib](https://zbib.org): build a bibliography instantly
 - [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide): the basics
