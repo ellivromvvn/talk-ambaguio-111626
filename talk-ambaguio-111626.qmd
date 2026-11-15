@@ -59,7 +59,7 @@ A reference management tool (also called a citation manager or bibliographic sof
 
 ## Why use reference management tools?
 
-Reference management tools help you collect, manage, cite, and **share** bibliographic references. These tools can be used to automatically generate both in-text citations and bibliographies, organize PDFs, and share references between team members [@woodward].
+Reference management tools help you collect, manage, **cite**, and **share** bibliographic references. These tools can be used to automatically generate both in-text citations and bibliographies, organize PDFs, and share references between team members [@woodward].
 
 Reference management tools helps you:
 
