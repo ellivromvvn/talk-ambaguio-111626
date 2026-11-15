@@ -114,7 +114,7 @@ Reference management tools helps you:
 
 ## What is a research editing tool?
 
-A research editing tool is software designed to help students, academics, and writers improve the clarity, accuracy, and formatting of their scholarly work. These tools use [**artificial intelligence**]{style="color: #107895;"} and rule-based checks to catch grammar errors, fix citation styles, and refine academic tone before a paper is submitted or published.
+A research editing tool is software designed to help students, academics, and writers improve the **clarity**, **accuracy**, and **formatting** of their scholarly work. These tools use [**artificial intelligence**]{style="color: red;"} and rule-based checks to catch grammar errors, fix citation styles, and refine academic tone before a paper is submitted or published.
 
 ## Committee on Publication Ethics (COPE)
 
