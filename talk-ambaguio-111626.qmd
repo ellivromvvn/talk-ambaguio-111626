@@ -121,27 +121,27 @@ A research editing tool is software designed to help students, academics, and wr
 ::: panel-tabset
 ## Writing Polishers & Paraphrasers
 
-- [Grammarly](https://app.grammarly.com/): Best for real-time grammar, spelling, punctuation, clarity, and tone checks across apps and browsers. It also offers generative rewrites, plagiarism checks, and AI detection tools like the Grammarly AI Detector.
-- [Quillbot](https://quillbot.com): Best for paraphrasing, summarizing, and rewording sentences in different styles—popular with students and writers. It also includes grammar checking and tools such as the QuillBot AI Detector.
+- ![](img/grammarly.png){height="40px"} [Grammarly](https://app.grammarly.com/): Best for real-time grammar, spelling, punctuation, clarity, and tone checks across apps and browsers. It also offers generative rewrites, plagiarism checks, and AI detection tools like the Grammarly AI Detector.
+- ![](img/quillbot.jpeg){height="40px"} [Quillbot](https://quillbot.com): Best for paraphrasing, summarizing, and rewording sentences in different styles—popular with students and writers. It also includes grammar checking and tools such as the QuillBot AI Detector.
 
 ## General AI Assistants
 
-- [Claude](https://claude.ai/): Strong at natural, human-sounding writing, nuanced tone, long document analysis, and coding.
+- ![](img/claude.png){height="40px"} [Claude](https://claude.ai/): Strong at natural, human-sounding writing, nuanced tone, long document analysis, and coding.
 
-- [ChatGPT](https://chatgpt.com/) Versatile all-rounder for drafting, brainstorming, step-by-step explanations, coding, and multimodal tasks.
+- ![](img/chatgpt.png){height="40px"} [ChatGPT](https://chatgpt.com/) Versatile all-rounder for drafting, brainstorming, step-by-step explanations, coding, and multimodal tasks.
 
-- [Gemini](https://gemini.google.com/): Tightly integrated with Google Workspace (Docs, Gmail, Drive, Sheets) and strong at live web search, research, and handling large workspaces or media.
+- ![](img/gemini.jpeg){height="40px"} [Gemini](https://gemini.google.com/): Tightly integrated with Google Workspace (Docs, Gmail, Drive, Sheets) and strong at live web search, research, and handling large workspaces or media.
 :::
 
 # Live demo
 
 ## Zotero tutorials and help
 
-- [ZoteroBib](https://zbib.org)
-- [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide)
-- [Zotero Documentation](https://www.zotero.org/support/)
-- [Zotero Screencasts](https://www.zotero.org/support/screencast_tutorials)
-- [Zotero Forums](https://forums.zotero.org)
+- [ZoteroBib](https://zbib.org): build a bibliography instantly
+- [Zotero Quick Start Guide](https://www.zotero.org/support/quick_start_guide): the basics
+- [Zotero Documentation](https://www.zotero.org/support/): all functionalities
+- [Zotero Screencasts](https://www.zotero.org/support/screencast_tutorials): video tutorials
+- [Zotero Forums](https://forums.zotero.org): discussions
 
 # Thank you for listening!
 
